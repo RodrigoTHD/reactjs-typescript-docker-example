@@ -1,0 +1,14 @@
+{
+  "name": "reactjs-typescript-docker-example",
+  "version": "1.0.0",
+  "description": "Dockerized React app with TypeScript and watch",
+  "keywords": [
+    "react",
+    "typescript",
+    "docker",
+    "watch"
+  ],
+  "author": "Rolf Rodrigo Krueger",
+  "repository": "https://github.com/RodrigoTHD/reactjs-typescript-docker-example.git",
+  "license": "MIT"
+}
