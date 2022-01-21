@@ -7,8 +7,11 @@ services:
     image: frontend
     build:
       context: ./src/services/frontend
+      # Target with source-map code.
       target: development
     volumes:
+      # Mount the code in a volume so that the changes will sync with the container while developing.
       - ./src/services/frontend/src:/app/src
     ports:
-      - 3000:3000
+      # The ports must be the same otherwise, the watch will not work.
+      - 9090:9090

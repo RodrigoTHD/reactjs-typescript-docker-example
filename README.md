@@ -16,4 +16,4 @@ docker-compose up -d
 ```
 
 It runs the application in the developtment mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:9090](http://localhost:9090) to view it in the browser.
