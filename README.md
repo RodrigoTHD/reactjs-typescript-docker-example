@@ -1,4 +1,4 @@
-# Dockerized React app with TypeScript and watch
+# Dockerized React app with TypeScript and Watch.
 
 This project aims to demonstrate the minimum configuration required to configure and run a ReactJS application with typescript, docker container and watch in the developtment mode.
 
@@ -15,4 +15,4 @@ docker-compose up -d
 ```
 
 It runs the application in the developtment mode.\
-Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
